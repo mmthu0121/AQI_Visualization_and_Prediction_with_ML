@@ -1,6 +1,6 @@
 
 | Story/Dashboard Name       | Link    | 
-| :------------- | :----------: | 
+| :------------- | :---------- | 
 |  AQI Challenge | https://public.tableau.com/views/AQIChallenge/AQITrendBeforeandDuringCovid19?:language=en-GB&:display_count=y&:origin=viz_share_link   | 
 | General AQITrend | https://public.tableau.com/views/AQIChallenge/GeneralAQITrend?:language=en-GB&:display_count=y&:origin=viz_share_link | 
 | AQI Before and After | https://public.tableau.com/views/AQIChallenge/AQIBeforeandAfter?:language=en-GB&:display_count=y&:origin=viz_share_link | 
